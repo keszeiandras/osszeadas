@@ -1,0 +1,2 @@
+# osszeadas
+app szamok osszeadasara
